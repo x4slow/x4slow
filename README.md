@@ -1,4 +1,6 @@
-/* ¡Hey! welcome to my profile | ¡Ey! bienvenid@ a mi perfil
+# 💻 console.log('x4slow profile')
 
-I am a junior JS (Javascript) developer.                    
-Soy desarrollador junior de JS (Javascript). */
+![x4slow profile](https://storage.googleapis.com/gweb-uniblog-publish-prod/original_images/Social_dino-with-hat.gif)
+
+## 🔗 Discord community (in spanish):
+  * Join us: [click here!](https://discord.gg/6Za7GEJfE9)
