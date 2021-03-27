@@ -3,7 +3,7 @@
 <h1 align="Center"> ¡Hola, soy x4slow! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"> </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x4slow" alt="raghav-byte" /> </p>
 
-### ⟩ Soy un desarrollador junior, actualmente aprendiendo y mejorando mis prácticas 🎓
+### ⟩ Soy un desarrollador junior, aprendiendo y mejorando mis prácticas. 🎓
 
 - 🔭 Actulmente me dedico al desarrollo de Bots de Discord.
 - 🌱 Desarrollo páginas webs basadas en Javascript, html & css (aprendiendo frameworks).
