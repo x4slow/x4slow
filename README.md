@@ -7,7 +7,7 @@
 Soy un desarrollador junior, actualmente aprendiendo y mejorando mis prácticas. 👨‍🎓
 
 - 🔭 Actulmente me dedico al desarrollo de Bots de Discord.
-- 🌱 Desarrollo páginas webs basadas en Javascript, html, css, vue.js, react.js.
+- 🌱 Desarrollo páginas webs basadas en Javascript, html & css (aprendiendo frameworks).
 - 💬 Puedes preguntar más sobre mí o alguna otra duda.
 - ⚡ Dato curioso: Jack de todos los oficios, maestro de ninguno.
 
