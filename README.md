@@ -6,7 +6,6 @@
 ### ⟩ Soy un desarrollador junior, aprendiendo y mejorando mis prácticas. 🎓
 
 - 🔭 Actulmente me dedico al desarrollo de Bots de Discord.
-- 🌱 Desarrollo páginas webs basadas en Javascript, html & css (aprendiendo frameworks).
 - 💬 Puedes preguntar más sobre mí o alguna otra duda.
 
 ### ⟩ Estadísticas de Github (públicas):
