@@ -6,6 +6,6 @@
 ### ⟩ Soy un desarrollador junior, aprendiendo y mejorando mis prácticas. 🎓
 - 🔭 Actulmente me dedico al desarrollo de Bots de Discord.
 
-### ⟩ Estadísticas de Github (públicas):
+### ⟩ Estadísticas de Github:
 <p align="center" >
 <img alt="x4slow estadísticas" src="https://github-readme-stats.vercel.app/api?username=x4slow&show_icons=true&theme=merko"  > </p>
