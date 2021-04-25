@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=x4slow" alt="raghav-byte" /> </p>
 
 ### ›› Soy un desarrollador junior, aprendiendo y mejorando mis prácticas. 🎓
-- 🔭 Actulmente me dedico al desarrollo de Bots de Discord.
+- 🔭 Actualmente me dedico al desarrollo de Bots de Discord.
 
 ### ›› Estadísticas de Github:
 <p align="center" >
